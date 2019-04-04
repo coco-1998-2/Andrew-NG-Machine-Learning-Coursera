@@ -3,5 +3,5 @@
 
 ## 课程地址：
 * 机器学习课程地址： https://www.coursera.org/course/ml
-* 笔记地址： http://www.ai-start.com/ml2014/
+* 笔记地址（视频课程全文翻译）： http://www.ai-start.com/ml2014/
 
