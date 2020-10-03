@@ -1,3 +1,10 @@
+# Andrew NG - Machine Learning - Coursera
+ Stanford Andrew Ng Machine Learning course on Coursera  
+
+## Links：
+* Coursera ML address： https://www.coursera.org/course/ml
+* Notes （Chinese）： http://www.ai-start.com/ml2014/
+--------------------------------------------------------------------
 # 吴恩达 机器学习Coursera课程
  Stanford Andrew Ng Machine Learning course on Coursera  
 
